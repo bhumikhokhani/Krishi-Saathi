@@ -1,2 +1,2 @@
 # Krishi-Saathi
-An Agricultual supply chain management system built using Blockchain Technoloy.
+An Agricultural supply chain management system built using Blockchain Technology.
